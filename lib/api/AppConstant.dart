@@ -1,0 +1,56 @@
+class AppConstant{
+  static final String NAME = "NAME";
+  static final String FCMTOKEN = "FCMTOKEN";
+  static final String VIDEOURL = "VIDEOURL";
+  static final String VIDEOSTATUS = "VIDEOSTATUS";
+  static final String BASE64IMAGE = "BASE64IMAGE";
+  static final String CUSTOMERId = "CUSTOMERId";
+  static final String MOBILTOKEN = "MOBILTOKEN";
+  static final String ANSWERNUMBER = "ANSWERNUMBER";
+  static final String BUYID = "BUYID";
+  static final String PROFILE = "PROFILE";
+  static final String RATING = "RATING";
+  static final String BUYCOUNSELLINGID = "BUYCOUNSELLINGID";
+  static final String RAZORPAYPAYMENTID = "RAZORPAYPAYMENTID";
+  static final String EMAIL = "EMAIL";
+  static final String MOBILE = "MOBILE";
+  static final String LOCATION = "LOCATION";
+  static final String IMAGE = "IMAGE";
+  static final String GENDER = "GENDER";
+  static final String ADDRESS = "ADDRESS";
+  static final String PASSWORD = "PASSWORD";
+  static final String TOPCATEGORYID="TOPCATEGORYID";
+  static final String TOKEN = "TOKEN";
+  static final String PRODUCTID = "PRODUCTID";
+  static final String STOREID = "STOREID";
+  static final String QUANTITY = "QUANTITY";
+  static final String TABLE = "TABLE";
+  static final String VALUE = "VALUE";
+  static final String SYMVALUE = "SYMVALUE";
+  static final String SPEVALUE = "SPEVALUE";
+  static final String GENVALUE = "GENVALUE";
+  static final String SYMPTOMS = "SYMPTOMS";
+  static final String SPECIALITY = "SPECIALITY";
+  static final String PATIENT = "PATIENT";
+  static final String PATIENTNAME = "PATIENTNAME";
+  static final String PATIENTAGE = "PATIENTAGE";
+  static final String PATIENTGENDER = "PATIENTGENDER";
+  static final String PATIENTADDRESS = "PATIENTADDRESS";
+  static final String DOCTOR = "DOCTOR";
+  static final String DOCTORID = "DOCTORID";
+  static final String DOCTORNAME = "DOCTORNAME";
+  static final String CONSULTID = "CONSULTID";
+  static final String CONSULTIDAMOUNT = "CONSULTIDAMOUNT";
+  static final String PRICE = "PRICE";
+  static final String GENERALPHYSICIAN = "GENERALPHYSICIAN";
+  static final String STATUS = "STATUS";
+  static final String ID = "ID";
+  static final String DISEASE = "DISEASE";
+  static final String DESCRIPTION = "DESCRIPTION";
+  static final String TYPE = "TYPE";
+  static final String TYPEIMAGE = "TYPEIMAGE";
+  static final String HEALTHCONCEPTVIDEO = "HEALTHCONCEPTVIDEO";
+  static final String FROMPAGE = "HEALTHCONCEPTVIDEO";
+
+
+}

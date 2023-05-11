@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "906231778806",
+    "project_id": "aec-medical",
+    "storage_bucket": "aec-medical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906231778806:android:4c7bfdc24cfb0ea8facbd7",
+        "android_client_info": {
+          "package_name": "com.aaragroups.aec_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906231778806-42gdes1qat2v9pllg6fvroahchv7vt9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxpea_JryHkcOKk3e1jE5oDayiE8LwsRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906231778806-42gdes1qat2v9pllg6fvroahchv7vt9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906231778806:android:ee51e12a09e1abb4facbd7",
+        "android_client_info": {
+          "package_name": "com.aaragroups.aecuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906231778806-1cci2bu3po4md4m6d6ahjgj170na81se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aaragroups.aecuser",
+            "certificate_hash": "b3b53b01a9fd4def86a55c77aba7b79a4f4bd310"
+          }
+        },
+        {
+          "client_id": "906231778806-ac78bm644q2eascts715butidh5h0urb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aaragroups.aecuser",
+            "certificate_hash": "5543263599458f63203418ed14b9c514d986dac1"
+          }
+        },
+        {
+          "client_id": "906231778806-rgvugpqd36djl6apcvkd4pq5p81d7mif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aaragroups.aecuser",
+            "certificate_hash": "42e064eb5f039db735d685562219c56fdb6a046a"
+          }
+        },
+        {
+          "client_id": "906231778806-42gdes1qat2v9pllg6fvroahchv7vt9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxpea_JryHkcOKk3e1jE5oDayiE8LwsRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906231778806-42gdes1qat2v9pllg6fvroahchv7vt9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
